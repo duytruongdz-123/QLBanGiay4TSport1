@@ -1,0 +1,213 @@
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.csprojResolveAssemblyReference.cache
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.Properties.Resources.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VHoaDon.frmMainCTPhieuNhap.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VHoaDon.frmMainCTPhieuXuat.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VHoaDon.frnMainPhieuNhap.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VHoaDon.frmMainPhieuXuat.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VHoaDon.frmThaoTacCTPhieuNhap.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VHoaDon.frmThaoTacCTPhieuXuat.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VHoaDon.frmThaoTacPhieuNhap.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VHoaDon.frmThaoTacPhieuXuat.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VKhachHang.frmKhachHang.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VKhachHang.frmThaoTacKH.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VMain.frmLogin.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VMain.frmMain.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VMain.GioiThieu.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VMain.LoadDataBase.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VNhanVien.frmMainNhanVien.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VNhanVien.frmThaoTacNV.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VNhanVien.ThaoTacNV.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VSanPham.frmMainLoaiGiay.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VSanPham.frmMainNhaCC.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VSanPham.frmMainNhaSX.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VSanPham.frmMainSanPham.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VSanPham.frmSize.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VSanPham.frmThaoTacLoaiGiay.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VSanPham.frmThaoTacNhaCC.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VSanPham.frmThaoTacNhaSX.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VSanPham.frmThaoTacSanPham.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VTaiKhoan.frmMainTaiKhoan.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VTaiKhoan.frmThaoTacTaiKhoan.resources
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.csproj.GenerateResource.Cache
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\QuanLyBanGiay.exe.config
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.exe.licenses
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\QuanLyBanGiay.exe
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\QuanLyBanGiay.pdb
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\Dapper.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Data.v17.1.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.XtraBars.v17.1.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\Dapper.xml
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Data.v17.1.xml
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.XtraBars.v17.1.xml
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.exe
+E:\TTN\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.pdb
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\QuanLyBanGiay.exe.config
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\QuanLyBanGiay.exe
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\QuanLyBanGiay.pdb
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\Dapper.dll
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Data.Desktop.v24.2.dll
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Data.v24.2.dll
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Drawing.v24.2.dll
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Office.v24.2.Core.dll
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Printing.v24.2.Core.dll
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.RichEdit.v24.2.Core.dll
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.RichEdit.v24.2.Export.dll
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Utils.v24.2.dll
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.XtraBars.v24.2.dll
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.XtraEditors.v24.2.dll
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Pdf.v24.2.Core.dll
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Pdf.v24.2.Drawing.dll
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Sparkline.v24.2.Core.dll
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\Dapper.xml
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Drawing.v24.2.xml
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Data.v24.2.xml
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Office.v24.2.Core.xml
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.RichEdit.v24.2.Core.xml
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Printing.v24.2.Core.xml
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Data.Desktop.v24.2.xml
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Utils.v24.2.xml
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.XtraBars.v24.2.xml
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.XtraEditors.v24.2.xml
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Pdf.v24.2.Core.xml
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Pdf.v24.2.Drawing.xml
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Sparkline.v24.2.Core.xml
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.csproj.AssemblyReference.cache
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.Properties.Resources.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VHoaDon.frmMainCTPhieuNhap.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VHoaDon.frmMainCTPhieuXuat.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VHoaDon.frnMainPhieuNhap.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VHoaDon.frmMainPhieuXuat.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VHoaDon.frmThaoTacCTPhieuNhap.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VHoaDon.frmThaoTacCTPhieuXuat.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VHoaDon.frmThaoTacPhieuNhap.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VHoaDon.frmThaoTacPhieuXuat.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VKhachHang.frmKhachHang.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VKhachHang.frmThaoTacKH.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VMain.frmLogin.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VMain.frmMain.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VMain.GioiThieu.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VMain.LoadDataBase.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VNhanVien.frmMainNhanVien.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VNhanVien.frmThaoTacNV.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VNhanVien.ThaoTacNV.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VSanPham.frmMainLoaiGiay.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VSanPham.frmMainNhaCC.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VSanPham.frmMainNhaSX.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VSanPham.frmMainSanPham.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VSanPham.frmSize.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VSanPham.frmThaoTacLoaiGiay.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VSanPham.frmThaoTacNhaCC.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VSanPham.frmThaoTacNhaSX.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VSanPham.frmThaoTacSanPham.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VTaiKhoan.frmMainTaiKhoan.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VTaiKhoan.frmThaoTacTaiKhoan.resources
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.csproj.GenerateResource.cache
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.exe.licenses
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.csproj.CoreCompileInputs.cache
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBa.AE8BC89B.Up2Date
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.exe
+D:\DEMO QLBG\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.pdb
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\QuanLyBanGiay.exe.config
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\QuanLyBanGiay.exe
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\QuanLyBanGiay.pdb
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\Dapper.dll
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Data.Desktop.v24.2.dll
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Data.v24.2.dll
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Drawing.v24.2.dll
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Office.v24.2.Core.dll
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Printing.v24.2.Core.dll
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.RichEdit.v24.2.Core.dll
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.RichEdit.v24.2.Export.dll
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Utils.v24.2.dll
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.XtraBars.v24.2.dll
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.XtraEditors.v24.2.dll
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Pdf.v24.2.Core.dll
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Pdf.v24.2.Drawing.dll
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Sparkline.v24.2.Core.dll
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\Dapper.xml
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Drawing.v24.2.xml
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Data.v24.2.xml
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Office.v24.2.Core.xml
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.RichEdit.v24.2.Core.xml
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Printing.v24.2.Core.xml
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Data.Desktop.v24.2.xml
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Utils.v24.2.xml
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.XtraBars.v24.2.xml
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.XtraEditors.v24.2.xml
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Pdf.v24.2.Core.xml
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Pdf.v24.2.Drawing.xml
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\bin\Debug\DevExpress.Sparkline.v24.2.Core.xml
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.Properties.Resources.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VHoaDon.frmMainCTPhieuNhap.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VHoaDon.frmMainCTPhieuXuat.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VHoaDon.frnMainPhieuNhap.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VHoaDon.frmMainPhieuXuat.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VHoaDon.frmThaoTacCTPhieuNhap.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VHoaDon.frmThaoTacCTPhieuXuat.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VHoaDon.frmThaoTacPhieuNhap.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VHoaDon.frmThaoTacPhieuXuat.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VKhachHang.frmKhachHang.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VKhachHang.frmThaoTacKH.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VMain.frmLogin.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VMain.frmMain.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VMain.GioiThieu.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VMain.LoadDataBase.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VNhanVien.frmMainNhanVien.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VNhanVien.frmThaoTacNV.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VNhanVien.ThaoTacNV.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VSanPham.frmMainLoaiGiay.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VSanPham.frmMainNhaCC.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VSanPham.frmMainNhaSX.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VSanPham.frmMainSanPham.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VSanPham.frmSize.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VSanPham.frmThaoTacLoaiGiay.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VSanPham.frmThaoTacNhaCC.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VSanPham.frmThaoTacNhaSX.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VSanPham.frmThaoTacSanPham.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VTaiKhoan.frmMainTaiKhoan.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.View.VTaiKhoan.frmThaoTacTaiKhoan.resources
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.exe.licenses
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBa.AE8BC89B.Up2Date
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.exe
+C:\Users\ACER\Desktop\QLBanGiay\QLBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.pdb
